@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.0
-versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=Alsa-mixer-by-flyingjackal456
+name=Install Alsa binaries in System folder
+version=v1.0
+versionCode=1
+author=flyingjackal456
+description=Installs/Mounts Alsa files as a Magisk Module
+updateJson=https://raw.githubusercontent.com/flyingjackal456/alsa_mixer_magisk_flyingjackal456/master/update.json
